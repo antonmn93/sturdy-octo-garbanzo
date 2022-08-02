@@ -1,0 +1,15 @@
+C:\geekbrains\languare\c_hello\bin\Debug\net6.0\c_hello.exe
+C:\geekbrains\languare\c_hello\bin\Debug\net6.0\c_hello.deps.json
+C:\geekbrains\languare\c_hello\bin\Debug\net6.0\c_hello.runtimeconfig.json
+C:\geekbrains\languare\c_hello\bin\Debug\net6.0\c_hello.dll
+C:\geekbrains\languare\c_hello\bin\Debug\net6.0\c_hello.pdb
+C:\geekbrains\languare\c_hello\obj\Debug\net6.0\c_hello.csproj.AssemblyReference.cache
+C:\geekbrains\languare\c_hello\obj\Debug\net6.0\c_hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\geekbrains\languare\c_hello\obj\Debug\net6.0\c_hello.AssemblyInfoInputs.cache
+C:\geekbrains\languare\c_hello\obj\Debug\net6.0\c_hello.AssemblyInfo.cs
+C:\geekbrains\languare\c_hello\obj\Debug\net6.0\c_hello.csproj.CoreCompileInputs.cache
+C:\geekbrains\languare\c_hello\obj\Debug\net6.0\c_hello.dll
+C:\geekbrains\languare\c_hello\obj\Debug\net6.0\refint\c_hello.dll
+C:\geekbrains\languare\c_hello\obj\Debug\net6.0\c_hello.pdb
+C:\geekbrains\languare\c_hello\obj\Debug\net6.0\c_hello.genruntimeconfig.cache
+C:\geekbrains\languare\c_hello\obj\Debug\net6.0\ref\c_hello.dll
